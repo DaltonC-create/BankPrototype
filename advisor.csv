@@ -1,0 +1,4 @@
+FirstName,LastName,Email,Availability
+Jim,Halpert,jim.halpert@outlook.com,"{'11/1/22': ['9:00 AM'], '11/20/22': ['10:00 AM', '11:00 AM'], '11/9/22': ['9:00 AM']}"
+Pam,Beesly,pam.beesly@outlook.com,"{'11/20/22': ['10:00 AM', '11:00 AM'], '11/22/22': ['10:00 AM', '11:00 AM']}"
+Michael,Scott,micahel.scott@gmail.com,"{'11/10/22': ['9:00 AM'], '11/14/22': ['10:00 AM', '11:00 AM'], '11/20/22': ['10:00 AM', '11:00 AM']}"
